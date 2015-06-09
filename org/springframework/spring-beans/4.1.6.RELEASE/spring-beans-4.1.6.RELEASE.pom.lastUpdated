@@ -1,5 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon May 18 23:13:25 IST 2015
-@default-springsource-milestones-https\://oss.sonatype.org/content/repositories/springsource-milestones/.lastUpdated=1431971004172
-https\://repo.maven.apache.org/maven2/.lastUpdated=1431971005178
-https\://oss.sonatype.org/content/repositories/springsource-milestones/.error=Could not transfer artifact org.springframework\:spring-beans\:pom\:4.1.6.RELEASE from/to springsource-milestones (https\://oss.sonatype.org/content/repositories/springsource-milestones)\: Failed to transfer file\: https\://oss.sonatype.org/content/repositories/springsource-milestones/org/springframework/spring-beans/4.1.6.RELEASE/spring-beans-4.1.6.RELEASE.pom. Return code is\: 503 , ReasonPhrase\:Service Unavailable.

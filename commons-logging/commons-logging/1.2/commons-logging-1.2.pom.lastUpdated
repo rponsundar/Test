@@ -1,5 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon May 18 23:13:31 IST 2015
-@default-springsource-milestones-https\://oss.sonatype.org/content/repositories/springsource-milestones/.lastUpdated=1431971010256
-https\://repo.maven.apache.org/maven2/.lastUpdated=1431971011671
-https\://oss.sonatype.org/content/repositories/springsource-milestones/.error=Could not transfer artifact commons-logging\:commons-logging\:pom\:1.2 from/to springsource-milestones (https\://oss.sonatype.org/content/repositories/springsource-milestones)\: Failed to transfer file\: https\://oss.sonatype.org/content/repositories/springsource-milestones/commons-logging/commons-logging/1.2/commons-logging-1.2.pom. Return code is\: 503 , ReasonPhrase\:Service Unavailable.

@@ -1,5 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon May 18 23:13:36 IST 2015
-@default-springsource-milestones-https\://oss.sonatype.org/content/repositories/springsource-milestones/.lastUpdated=1431971013756
-https\://repo.maven.apache.org/maven2/.lastUpdated=1431971016790
-https\://oss.sonatype.org/content/repositories/springsource-milestones/.error=Could not transfer artifact org.apache.commons\:commons-parent\:pom\:34 from/to springsource-milestones (https\://oss.sonatype.org/content/repositories/springsource-milestones)\: Failed to transfer file\: https\://oss.sonatype.org/content/repositories/springsource-milestones/org/apache/commons/commons-parent/34/commons-parent-34.pom. Return code is\: 503 , ReasonPhrase\:Service Unavailable.

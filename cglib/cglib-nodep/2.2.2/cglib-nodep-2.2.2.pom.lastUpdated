@@ -1,5 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon May 18 23:14:04 IST 2015
-@default-springsource-milestones-https\://oss.sonatype.org/content/repositories/springsource-milestones/.lastUpdated=1431971043769
-https\://repo.maven.apache.org/maven2/.lastUpdated=1431971044823
-https\://oss.sonatype.org/content/repositories/springsource-milestones/.error=Could not transfer artifact cglib\:cglib-nodep\:pom\:2.2.2 from/to springsource-milestones (https\://oss.sonatype.org/content/repositories/springsource-milestones)\: Failed to transfer file\: https\://oss.sonatype.org/content/repositories/springsource-milestones/cglib/cglib-nodep/2.2.2/cglib-nodep-2.2.2.pom. Return code is\: 503 , ReasonPhrase\:Service Unavailable.
