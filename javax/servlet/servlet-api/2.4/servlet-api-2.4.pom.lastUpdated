@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon May 18 23:14:07 IST 2015
+@default-springsource-milestones-https\://oss.sonatype.org/content/repositories/springsource-milestones/.lastUpdated=1431971046477
+https\://repo.maven.apache.org/maven2/.lastUpdated=1431971047201
+https\://oss.sonatype.org/content/repositories/springsource-milestones/.error=Could not transfer artifact javax.servlet\:servlet-api\:pom\:2.4 from/to springsource-milestones (https\://oss.sonatype.org/content/repositories/springsource-milestones)\: Failed to transfer file\: https\://oss.sonatype.org/content/repositories/springsource-milestones/javax/servlet/servlet-api/2.4/servlet-api-2.4.pom. Return code is\: 503 , ReasonPhrase\:Service Unavailable.
